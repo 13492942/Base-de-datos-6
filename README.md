@@ -15,5 +15,5 @@ Diseñada con precisión para el entorno empresarial moderno, esta solución cen
 
 Nuestro sistema está diseñado para ser intuitivo y fácil de usar, permitiendo a los equipos de Recursos Humanos y a los managers acceder a la información que necesitan de forma rápida y sencilla. 
 
-- Problema que Resuelve
+# Problema que Resuelve
   Actualmente, muchas empresas manejan la información de sus empleados con hojas de cálculo y procesos manuales. Esto genera datos dispersos, ineficiencia y riesgos de seguridad. Nuestro sistema resuelve estos problemas al centralizar la información y automatizar las tareas, garantizando una gestión más segura y eficiente.
