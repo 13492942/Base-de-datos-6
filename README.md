@@ -20,3 +20,5 @@ Nuestro sistema está diseñado para ser intuitivo y fácil de usar, permitiendo
   
   # Conclusion
   Este sistema de recursos humanos representa un avance significativo en la gestión del personal. Al centralizar la información y automatizar procesos clave como la nómina, las ausencias y la evaluación del desempeño, se elimina la ineficiencia de los métodos manuales y se reduce el riesgo de errores.
+
+  
