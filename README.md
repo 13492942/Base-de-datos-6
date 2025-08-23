@@ -21,4 +21,6 @@ Nuestro sistema está diseñado para ser intuitivo y fácil de usar, permitiendo
   # Conclusion
   Este sistema de recursos humanos representa un avance significativo en la gestión del personal. Al centralizar la información y automatizar procesos clave como la nómina, las ausencias y la evaluación del desempeño, se elimina la ineficiencia de los métodos manuales y se reduce el riesgo de errores.
 
+  https://www.bing.com/images/search?view=detailV2&ccid=uPtuTowK&id=758378B8396A55B779E827A010ECC4F4D9D28926&thid=OIP.uPtuTowK1_ENdq57ZCVnGQHaEo&mediaurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F264%2F515%2Fpng-transparent-concepts-of-leadership-team-leader-leadership-miscellaneous-text-public-relations.png&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.b8fb6e4e8c0ad7f10d76ae7b64256719%3Frik%3DJonS2fTE7BCgJw%26pid%3DImgRaw%26r%3D0&exph=575&expw=920&q=empleado+png&form=IRPRST&ck=8846065AA7CFFD0B2BC5273E1BE77A35&selectedindex=7&itb=0&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_q5j1okrW*cp_8E3872AC3F9D7024EC88DF7E3D1F91B2*mid_2EF423CB4E33DE1774918FDB3B8FC881BE29BE87*simid_608025017908920883*thid_OIP.q5j1okrWdxm1R4rVXIdB2gHaH9&vt=0&sim=11&iss=VSI&simid=608025979992741514&ajaxhist=0&ajaxserp=0
+
   
