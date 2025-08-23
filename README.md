@@ -12,3 +12,8 @@ Un sistema de gestión de recursos humanos que simplifica la administración del
 Esta base de datos es la columna vertebral de nuestro sistema de gestión de personal. Está diseñada para almacenar, organizar y gestionar de manera eficiente toda la información vital de los empleados.
 
 Diseñada con precisión para el entorno empresarial moderno, esta solución centraliza la información más vital de tus empleados en un único lugar seguro. No es solo un repositorio de datos, es una herramienta poderosa que transforma la administración del personal.
+
+Nuestro sistema está diseñado para ser intuitivo y fácil de usar, permitiendo a los equipos de Recursos Humanos y a los managers acceder a la información que necesitan de forma rápida y sencilla. 
+
+- Problema que Resuelve
+  Actualmente, muchas empresas manejan la información de sus empleados con hojas de cálculo y procesos manuales. Esto genera datos dispersos, ineficiencia y riesgos de seguridad. Nuestro sistema resuelve estos problemas al centralizar la información y automatizar las tareas, garantizando una gestión más segura y eficiente.
