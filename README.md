@@ -11,6 +11,4 @@ Gestión de Ausencias
 # Importancia:
 Esta base de datos es la columna vertebral de nuestro sistema de gestión de personal. Está diseñada para almacenar, organizar y gestionar de manera eficiente toda la información vital de los empleados.
 
-![Helen](Archivos/OIP.webp)
-
 Diseñada con precisión para el entorno empresarial moderno, esta solución centraliza la información más vital de tus empleados en un único lugar seguro. No es solo un repositorio de datos, es una herramienta poderosa que transforma la administración del personal.
