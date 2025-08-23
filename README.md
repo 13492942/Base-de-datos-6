@@ -1,7 +1,7 @@
 # Sistema de Recursos Humanos👨
 Un sistema de gestión de recursos humanos que simplifica la administración del personal, desde la contratación hasta la jubilación. Este proyecto está diseñado para automatizar tareas clave y centralizar la información de los empleados, mejorando la eficiencia operativa de cualquier empresa.
 
-- **Funcionalidades Principales**
+**Funcionalidades Principales**
 - Gestión de Empleados
 - Gestión de Nómina
 - Gestión de Ausencias
