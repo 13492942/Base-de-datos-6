@@ -17,3 +17,5 @@ Nuestro sistema está diseñado para ser intuitivo y fácil de usar, permitiendo
 
 # Problema que Resuelve
   Actualmente, muchas empresas manejan la información de sus empleados con hojas de cálculo y procesos manuales. Esto genera datos dispersos, ineficiencia y riesgos de seguridad. Nuestro sistema resuelve estos problemas al centralizar la información y automatizar las tareas, garantizando una gestión más segura y eficiente.
+  #Conclusion
+  Este sistema de recursos humanos representa un avance significativo en la gestión del personal. Al centralizar la información y automatizar procesos clave como la nómina, las ausencias y la evaluación del desempeño, se elimina la ineficiencia de los métodos manuales y se reduce el riesgo de errores.
